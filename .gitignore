@@ -1,0 +1,8 @@
+# Abaikan folder dependencies
+node_modules/
+
+# Abaikan file rahasia (sangat penting!)
+.env
+
+# Abaikan log error
+npm-debug.log
