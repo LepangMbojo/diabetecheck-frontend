@@ -95,10 +95,17 @@ export default function InputForm({ onSubmit, isLoading }) {
             >
               <option value="">-- Pilih Kategori --</option>
               <option value="1">18-24 tahun</option>
-              <option value="4">30-34 tahun</option>
-              <option value="6">40-44 tahun</option>
-              <option value="8">50-54 tahun</option>
-              <option value="10">60-64 tahun</option>
+              <option value="2">25-29 tahun</option>
+              <option value="3">30-34 tahun</option>
+              <option value="4">35-39 tahun</option>
+              <option value="5">40-44 tahun</option>
+              <option value="6">45-49 tahun</option>
+              <option value="7">50-54 tahun</option>
+              <option value="8">55-59 tahun</option>
+              <option value="9">60-64 tahun</option>
+              <option value="10">65-69 tahun</option>
+              <option value="11">70-74 tahun</option>
+              <option value="12">75-79 tahun</option>
               <option value="13">80 tahun ke atas</option>
             </select>
           </div>
